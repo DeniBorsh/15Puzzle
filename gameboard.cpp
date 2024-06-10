@@ -2,7 +2,6 @@
 #include <algorithm>
 #include <chrono>
 #include <random>
-#include <QDebug>
 
 namespace {
 bool isAdjacent(GameBoard::Position f,
