@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Tile.qml</file>
+        <file>GameBoard.qml</file>
+        <file>img/gray-stone.jpg</file>
+        <file>img/tree-texture.jpg</file>
+        <file>Footer.qml</file>
+        <file>EndScreen.qml</file>
+    </qresource>
+</RCC>
